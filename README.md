@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **adam-krassowski/adam-krassowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello!
+### 👋 Hello!
 
 🎮 I'm a video game lawyer (specialising in intellectual property and privacy), currently working as a Senior Legal Counsel at CD PROJEKT RED. Based in Warsaw, Poland.
 
